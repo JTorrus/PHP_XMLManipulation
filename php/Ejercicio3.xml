@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<vehicles><vehicle id="1"><manufacturer>Tesla</manufacturer><brand>Roadster</brand><plate>12345A</plate></vehicle><vehicle id="2"><manufacturer>Ferrari</manufacturer><brand>Enzo</brand><plate>54321B</plate></vehicle><vehicle id="3"><manufacturer>Honda</manufacturer><brand>Civic</brand><plate>231321C</plate></vehicle><vehicle id="4"><manufacturer>BMW</manufacturer><brand>i5</brand><plate>121312D</plate></vehicle><vehicle id="5"><manufacturer>Toyota</manufacturer><brand>Supra</brand><plate>123123E</plate></vehicle></vehicles>
